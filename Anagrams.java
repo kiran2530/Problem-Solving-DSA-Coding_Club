@@ -5,7 +5,7 @@ public class Anagrams {
             return false;
         for(int i=0; i<x.length; i++) {
             if(x[i] == y[i]) {
-
+            
             }
             else
                 return false;
