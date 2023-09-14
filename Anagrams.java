@@ -32,6 +32,7 @@ public class Anagrams {
                 }
                 else
                     j++;
+                
             }
             listOfList.add(list1);
         }
