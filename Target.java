@@ -12,9 +12,8 @@ public class Target {
                     result.set(0, i);
                     result.set(1, i);
                 }
-                else {
+                else
                     result.set(1, i);
-                }
             }
         }
         return result;
