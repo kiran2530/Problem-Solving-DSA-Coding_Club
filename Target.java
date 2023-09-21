@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class Target {
     public static ArrayList<Integer> target(int[] a, int tar) {
         ArrayList<Integer> result = new ArrayList<>();
@@ -20,7 +19,6 @@ public class Target {
         }
         return result;
     }
-
     public static void main(String[] args) {
         int a[] = {5,7,7,8,8,10};
         int tar = 8;
