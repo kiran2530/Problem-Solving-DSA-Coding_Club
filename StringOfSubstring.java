@@ -1,5 +1,8 @@
 public class StringOfSubstring {
     public static boolean isTure(String s) {
+        if(s.length() == 1)
+            return true;
+
         double count = 1.0;
         String s1 = "" + s.charAt(0);
         int idx = 0;
@@ -31,7 +34,7 @@ public class StringOfSubstring {
         return false;
     }
     public static void main(String[] args) {
-        String s = "abcabcabcabc";
+        String s = "a";
         System.out.println(isTure(s));
     }
 }
