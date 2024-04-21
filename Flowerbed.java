@@ -21,7 +21,7 @@ public class Flowerbed {
         a.add(0);
         a.add(0);
         
-        int n = 4;
+        int n = 2;
 
         System.out.println(isPlanted(a, n));
     }
