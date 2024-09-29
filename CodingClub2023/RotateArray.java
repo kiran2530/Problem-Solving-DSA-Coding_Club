@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.ArrayList;
 public class RotateArray {
     public static ArrayList<Integer> rotateArray(ArrayList<Integer> a, int k) {

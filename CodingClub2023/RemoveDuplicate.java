@@ -1,4 +1,4 @@
-package CodingClub2023;
+
 public class RemoveDuplicate {
     static int count=0;
     public static int[] RemoveDuplicateNumber(int[] a) {

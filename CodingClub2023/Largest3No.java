@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class Largest3No {
     public static int[] findLargest3No(int[] a) {
         int[] Numbers = {Integer.MIN_VALUE,Integer.MIN_VALUE,Integer.MIN_VALUE};

@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class MaxProfitOfShareTrader {
     public static int findMaxProfit(int[] prize, int n) {
         int[] profit = new int[3];

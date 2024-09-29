@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class PossibleNoTrangle {
     static int trangleNo = 0;
     public static void findPossibleNoTrangle(int[] a, int n, int[] trangleData, int index,int i) {

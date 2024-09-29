@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.ArrayList;
 public class Target {
     public static ArrayList<Integer> target(int[] a, int tar) {

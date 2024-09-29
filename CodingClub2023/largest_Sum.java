@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class largest_Sum {
     public static int largestSum(int a[]) {
         int sum = Integer.MIN_VALUE;

@@ -1,4 +1,3 @@
-package CodingClub2023;
 /* Q) An array contains both positive and negative numbers in random order. Rearrange the array elements
       so that positive and negative numbers are placed alternatively. A number of positive and negative 
       numbers need not be equal. If there 'are more positive numbers they appear at the end of the array. 

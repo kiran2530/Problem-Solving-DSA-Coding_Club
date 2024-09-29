@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class TargetInRotetedArray {
     public static int returnPivot(int[] a) {
         int i = 0, j = a.length-1;

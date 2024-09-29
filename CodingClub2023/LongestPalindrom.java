@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class LongestPalindrom {
     static String palindrom = "";
     

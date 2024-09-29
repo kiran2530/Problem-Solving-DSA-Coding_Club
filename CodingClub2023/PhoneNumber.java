@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class PhoneNumber {
     public static String integerNo(String no) {
         if(no.equals("one"))

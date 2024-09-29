@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class MaxProfit {
     public static int maxProfit(int[] a) {
         int max = 0;

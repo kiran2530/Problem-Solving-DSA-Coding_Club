@@ -1,4 +1,3 @@
-package CodingClub2023;
 /*
 Q)  Given an array arr[] of integers and a number x, the task is to find the smallest subarray
     with a sum greater than the given value.

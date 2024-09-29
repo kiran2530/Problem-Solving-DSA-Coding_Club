@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class RemoveNthNode {
     node head = null;
     node last = null;

@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class IntToStr
 {
     public static int StringToInt(String num)

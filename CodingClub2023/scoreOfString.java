@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.Scanner;
 public class scoreOfString{
     public static int scoreString(String str){

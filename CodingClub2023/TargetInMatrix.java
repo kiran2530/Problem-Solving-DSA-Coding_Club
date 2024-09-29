@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class TargetInMatrix {
     public static boolean findTarget(int[][] a, int target,int row,int col) {
         if(target > a[row-1][col-1]){

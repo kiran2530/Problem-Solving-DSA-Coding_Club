@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.*;
 public class MergeArrays {
     public static int[] mergeArrays(int[] a, int[] b, int m, int n) {

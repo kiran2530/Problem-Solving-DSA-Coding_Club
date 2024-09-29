@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class RemoveVAl {
     static int count=0;
     public static int[] removeVal(int[] a,int val) {

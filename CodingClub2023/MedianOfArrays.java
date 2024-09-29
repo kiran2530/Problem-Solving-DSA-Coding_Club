@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.Arrays;
 public class MedianOfArrays {
     public static double median(int[] a, int[] b) {

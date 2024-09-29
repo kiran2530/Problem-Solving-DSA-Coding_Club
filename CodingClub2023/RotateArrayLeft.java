@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class RotateArrayLeft {
     public static int[] rotateArrayLeft(int[] arr, int n, int d) {
         if(d % arr.length == 0)

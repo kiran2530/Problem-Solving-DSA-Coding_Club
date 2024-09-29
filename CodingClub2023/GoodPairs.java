@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.*;
 public class GoodPairs {
     public static int noOfGoodPairs(int[] a) {

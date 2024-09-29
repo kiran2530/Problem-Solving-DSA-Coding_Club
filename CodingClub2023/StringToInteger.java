@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class StringToInteger {
     static boolean flag = false;
     public static int myAtoi(String s) {

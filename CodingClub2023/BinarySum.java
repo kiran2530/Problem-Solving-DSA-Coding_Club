@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class BinarySum {
     public static String binarySum(String str1, String str2) {
         int len1 = str1.length();

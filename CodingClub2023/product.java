@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class product {
     static String multiplication(String num1,String num2){
         int len1 = num1.length();

@@ -1,4 +1,3 @@
-package CodingClub2023;
 /* Q) Given two integer arrays of the same size, "arr[]" and "index[]", reorder elements in "arr[]" 
  *    according to the given index array.
 */

@@ -1,4 +1,3 @@
-package CodingClub2023;
 /*
     Q)  Given an array of N elements, where each element is at most K away from its target position, 
         devise an algorithm that sorts in O(N log K).

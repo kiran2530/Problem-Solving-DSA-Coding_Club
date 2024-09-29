@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class RotateLinkedList {
     static Node head = null, tail = null;
     static class Node {

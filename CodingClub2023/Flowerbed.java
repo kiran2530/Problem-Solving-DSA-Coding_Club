@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.ArrayList;
 public class Flowerbed {
     public static boolean isPlanted(ArrayList<Integer> a, int n) {

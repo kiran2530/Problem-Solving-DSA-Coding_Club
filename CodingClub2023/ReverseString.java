@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class ReverseString {
     public static char[] reveeseString(char[] str) {
         int i=0, j=str.length-1;

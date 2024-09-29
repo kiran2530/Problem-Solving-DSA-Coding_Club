@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.*;
 public class ZigzagString {
     static void zigzagString(String s, int n) {  

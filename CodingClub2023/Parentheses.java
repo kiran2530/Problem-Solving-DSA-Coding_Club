@@ -1,4 +1,3 @@
-package CodingClub2023;
 import java.util.ArrayList;
 
 public class Parentheses {

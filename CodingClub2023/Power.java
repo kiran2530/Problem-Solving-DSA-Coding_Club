@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class Power {
     public static double pow(double x, int n) {
         int n1 = Math.abs(n);

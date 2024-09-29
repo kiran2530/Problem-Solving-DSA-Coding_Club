@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class StringOfSubstring {
     public static boolean isTure(String s) {
         if(s.length() == 1)

@@ -1,4 +1,3 @@
-package CodingClub2023;
 /*
 Q)  Given an array arr[] of N integers, the task is to count the number of smaller elements on the right side for each of the element in the array.
 

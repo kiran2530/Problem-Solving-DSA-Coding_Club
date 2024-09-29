@@ -1,4 +1,3 @@
-package CodingClub2023;
 public class Remove_Node {
     static int count;
     node head = null;
